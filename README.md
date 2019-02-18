@@ -10,6 +10,7 @@ Debian Image with
 * python-dev
 * readline-dev
 * ccache
+* qtbase5-dev
 
 ## Repos
 * [Gitlab](https://gitlab.norbert-ruehl.de/nruehl/docker-tg-utils_build.git)
