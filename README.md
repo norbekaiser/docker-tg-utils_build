@@ -13,7 +13,7 @@ Debian Image with
 * qtbase5-dev
 
 ## Repos
-* [Gitlab](https://gitlab.norbert-ruehl.de/nruehl/docker-tg-utils_build.git)
+* [Gitlab](https://gitlab.norbert-ruehl.de/tg-utils/docker-tg-utils_build.git)
 * [Github](https://github.com/norbekaiser/docker-tg-utils_build.git)
 
 ## Docker
