@@ -7,7 +7,7 @@ Debian Image with
 * libssl-dev
 * zlib1g-dev
 * cmake
-* python-dev
+* python3-dev
 * readline-dev
 * ccache
 * qtbase5-dev
