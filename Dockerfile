@@ -11,4 +11,4 @@ RUN apt-get install -y --no-install-recommends libreadline-dev
 RUN apt-get install -y --no-install-recommends python3-dev
 RUN apt-get install -y --no-install-recommends qtbase5-dev
 RUN apt-get clean
-RUN rm -rf /varlib/apt/lists/*
+RUN rm -rf /var/lib/apt/lists/*
